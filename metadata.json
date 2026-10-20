@@ -1,0 +1,6 @@
+{
+  "name": "Celebrate",
+  "description": "A cheerful birthday reminder app to track birthdays, gift ideas, and celebrate loved ones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
